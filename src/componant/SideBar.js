@@ -237,7 +237,7 @@ export default function LMSApp() {
         }}
       >
         <Typography variant="body2" sx={{ marginLeft: 10 }}>
-          © 2024 MEDEX Institute. All Rights Reserved.
+          © 2025 MEDEX Institute. All Rights Reserved.
         </Typography>
         <Typography variant="body2" sx={{ marginRight: 10 }}>
           Version 1.0
